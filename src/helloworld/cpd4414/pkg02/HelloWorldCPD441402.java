@@ -35,7 +35,4 @@ public class HelloWorldCPD441402 {
     public static void austin() {
         System.out.println("WOOO I HAVE A PALACE!!... ");
     }
-    
-    
-    
 }
