@@ -16,7 +16,7 @@ public class HelloWorldCPD441402 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Len Payne");
+        System.out.println("Leonard Payne");
         System.out.println("Jasmyn Newton");
         System.out.println("Ashika Shallow");
         System.out.println("Kyle Crossman");
