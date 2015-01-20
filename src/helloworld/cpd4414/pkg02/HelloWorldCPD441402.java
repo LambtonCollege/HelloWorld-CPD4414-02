@@ -29,6 +29,6 @@ public class HelloWorldCPD441402 {
         System.out.println("Amanda Cohoon");
     }
     public static void austin () {
-    System.out.println("WOOO I HAVE A PALACE!!... with blackjack and hookers...Dylans fault");
+    System.out.println("WOOO I HAVE A PALACE!! with doritos and mountain dew..");
 }
 }
