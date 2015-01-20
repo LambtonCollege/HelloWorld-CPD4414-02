@@ -21,7 +21,7 @@ public class HelloWorldCPD441402 {
         System.out.println("Dylan Huculak - dylan@dylanweb.ca");
         System.out.println("Ashika Shallow");
         System.out.println("Kyle Crossman");
-        System.out.println("Lewis A. Menelaws");
+        System.out.println("Lewis Menelaws");
         System.out.println("JSON Preston");
         System.out.println("Ryan McLeod");
         System.out.println("Austin Coombes-Reid");
