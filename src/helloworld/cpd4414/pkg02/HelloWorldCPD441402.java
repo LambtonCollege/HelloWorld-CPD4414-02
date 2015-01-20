@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package helloworld.cpd4414.pkg02;
 
 /**
@@ -28,11 +27,12 @@ public class HelloWorldCPD441402 {
         System.out.println("For the LOVE of the universe... Add my friggin' name! - Jeff Codling");
         System.out.println("Amanda Cohoon");
     }
+
     public void amanda() {
         System.out.println("howdy");
     }
-    
-    public static void austin () {
-    System.out.println("WOOO I HAVE A PALACE!!... with blackjack and hookers...Dylans fault");
-}
+
+    public static void austin() {
+        System.out.println("WOOO I HAVE A PALACE!!... ");
+    }
 }
