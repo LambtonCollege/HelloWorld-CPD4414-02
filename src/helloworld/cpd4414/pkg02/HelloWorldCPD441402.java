@@ -6,6 +6,8 @@
 
 package helloworld.cpd4414.pkg02;
 
+import java.util.Scanner;
+
 /**
  *
  * @author c0587637
@@ -29,8 +31,8 @@ public class HelloWorldCPD441402 {
         System.out.println("Amanda Cohoon");
     }
     
-    public static void coolMethod() {
-        
+    public static void jasmyn() {
+        System.out.println("Leonardo Dicaprio is love.");
     }
     
 }
