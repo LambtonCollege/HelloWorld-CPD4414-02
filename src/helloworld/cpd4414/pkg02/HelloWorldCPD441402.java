@@ -22,7 +22,7 @@ public class HelloWorldCPD441402 {
         System.out.println("Ashika Shallow");
         System.out.println("Kyle Crossman");
         System.out.println("Lewis A. Menelaws");
-        System.out.println("JSON Preston");
+        System.out.println("Jason Preston (JSON is here)");
         System.out.println("Ryan McLeod");
         System.out.println("Austin Coombes-Reid");
         System.out.println("For the LOVE of the universe... Add my friggin' name! - Jeff Codling");
