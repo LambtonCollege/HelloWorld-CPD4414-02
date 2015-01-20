@@ -29,4 +29,8 @@ public class HelloWorldCPD441402 {
         System.out.println("Amanda Cohoon");
     }
     
+    public static void Ashika(){
+        System.out.println("Alone is where the heart is!");
+    }
+    
 }
