@@ -35,4 +35,10 @@ public class HelloWorldCPD441402 {
     public static void austin() {
         System.out.println("WOOO I HAVE A PALACE!!... ");
     }
+    
+    public static void dylan() {
+        System.out.println("This is my method. There are many others like it, but this one is mine.");
+        //Test comment
+    }
+    
 }
