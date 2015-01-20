@@ -30,7 +30,7 @@ public class HelloWorldCPD441402 {
     }
     
     public static void jeff() {
-        System.out.println("Jeff");
+        System.out.println("This is my method. It is like many other methods but this one is mine.");
     }
     
 }
