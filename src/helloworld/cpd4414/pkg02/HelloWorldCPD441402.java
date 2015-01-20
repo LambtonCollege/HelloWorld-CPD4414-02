@@ -28,5 +28,5 @@ public class HelloWorldCPD441402 {
         System.out.println("For the LOVE of the universe... Add my friggin' name! - Jeff Codling");
         System.out.println("Amanda Cohoon");
     }
-    
+    System.out.println("WOOO I HAVE A PALACE!!")
 }
