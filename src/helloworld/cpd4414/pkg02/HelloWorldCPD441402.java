@@ -30,7 +30,7 @@ public class HelloWorldCPD441402 {
     }
     
     public static void Ryan() {
-        System.out.println("Hi guys");
+        System.out.println("Hi guys.....who wants to work on assignment 2 together?");
     }
     
 }
